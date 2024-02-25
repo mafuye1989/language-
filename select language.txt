@@ -1,0 +1,5 @@
+if (language === "english") {
+    feedbackFormUrl = "https://docs.google.com/forms/d/e/1FAIpQLScMfP09AbvoE33gfePzC1Uu99gaEFioMzpZH2q1cGOlxH20MQ/viewform?usp=sf_link";
+} else if (language === "amharic") {
+    feedbackFormUrl = "https://docs.google.com/forms/d/e/1FAIpQLScgXjU_CMyxnQuL5tbhUvfzN3SAm-hWAtSVZWOLT2WR5fIvJg/viewform?usp=sf_link";
+}
